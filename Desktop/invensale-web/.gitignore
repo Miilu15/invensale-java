@@ -1,0 +1,15 @@
+# Compiled classes
+WEB-INF/classes/
+*.class
+
+# IDE & tools
+.claude/
+.idea/
+*.iml
+nbproject/
+build/
+dist/
+
+# OS
+Thumbs.db
+.DS_Store
